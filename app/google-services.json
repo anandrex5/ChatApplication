@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193536169245",
+    "project_id": "chatapplication-afde2",
+    "storage_bucket": "chatapplication-afde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193536169245:android:9ba3412fb57cf93681fdf4",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNfjd_1SeJ7p4-k_A2VGRR7x4UeFUSWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
